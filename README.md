@@ -1,5 +1,3 @@
-
-[README.md](https://github.com/user-attachments/files/23193039/README.md)
 # AI-based-Dynamic-Traffic-Light-Management-System
 
 This project implements a smart traffic light control system using an Arduino Uno in Proteus software. This system dynamically adjusts green light durations based on real-time traffic density data received via serial communication.
